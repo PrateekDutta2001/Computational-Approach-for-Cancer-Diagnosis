@@ -42,18 +42,18 @@ Chest pain: YES=2 , NO=1.
 
 Lung Cancer: YES , NO.
 
-#The main symptoms of lung cancer include:
+# The main symptoms of lung cancer include:
 
-> a cough that doesn't go away after 2 or 3 weeks.
+-> a cough that doesn't go away after 2 or 3 weeks.
 
-> a long-standing cough that gets worse.
+-> a long-standing cough that gets worse.
 
-> chest infections that keep coming back.
+-> chest infections that keep coming back.
 
-> coughing up blood.
+-> coughing up blood.
 
-> an ache or pain when breathing or coughing.
+-> an ache or pain when breathing or coughing.
 
-> persistent breathlessness.
+-> persistent breathlessness.
 
-> persistent tiredness or lack of energy.
+-> persistent tiredness or lack of energy.
